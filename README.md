@@ -61,7 +61,7 @@ It follows a modular structure with:
 ---
 
 ## 🌐 Deployment
-The project is deployed on **Render** using `gunicorn`:
+The project is deployed on **Render**:
 - **Live App:** [Click Here](https://student-performance-prediction-wykq.onrender.com/predictdata)
 
 ---
